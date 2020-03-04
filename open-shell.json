@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/Open-Shell/Open-Shell-Menu",
+    "version": "4.4.142",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.142/OpenShellSetup_4_4_142.exe",
+            "extract_dir": "open-shell-$version-win32"
+        },
+        "32bit": {
+            "url": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.142/OpenShellSetup_4_4_142.exe",
+            "extract_dir": "open-shell-$version-win32"
+        }
+    },
+    "notes": [
+        "Restart explorer to activate context menu."
+    ]
+}
